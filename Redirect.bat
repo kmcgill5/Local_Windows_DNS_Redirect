@@ -1,7 +1,6 @@
 echo off
 setlocal enabledelayedexpansion
 cd /d E:\Ban
-"C:\Program Files\BlueJ\jdk\bin\javac.exe" Enable.java
 [40m
 :Title
 cls
